@@ -1,0 +1,8 @@
+[INFO] [2019-04-22 17:23:49 ] [Thread-0] com.wiscom.thread.Client_Thread_old - start init conf
+[INFO] [2019-04-22 17:23:50 ] [Thread-3] com.wiscom.thread.Client_Thread_old - send success
+[INFO] [2019-04-22 17:23:55 ] [Thread-4] com.wiscom.thread.Client_Thread_old - A 3 1 2 2 20190404 180505 20190404 180633
+[INFO] [2019-04-22 17:23:55 ] [Thread-5] com.wiscom.thread.Client_Thread_old - 摄像机编号：1，对应的ID：e586d7a5-aba8-11e8-88ff-0026557b6ee0，告警状态：1，事件开始时间：2019-04-04 18:05:05，事件结束时间：2019-04-04 18:06:33，车道类型：2，事件类型：减速，采集时间：2019-04-22 17:23:55
+[INFO] [2019-04-22 17:23:55 ] [Thread-5] com.wiscom.thread.Client_Thread_old - insert remove alert event successfully
+[INFO] [2019-04-22 17:24:05 ] [Thread-4] com.wiscom.thread.Client_Thread_old - A 3 1 2 2 20190404 180505 20190404 180633
+[INFO] [2019-04-22 17:24:05 ] [Thread-5] com.wiscom.thread.Client_Thread_old - 摄像机编号：1，对应的ID：e586d7a5-aba8-11e8-88ff-0026557b6ee0，告警状态：1，事件开始时间：2019-04-04 18:05:05，事件结束时间：2019-04-04 18:06:33，车道类型：2，事件类型：减速，采集时间：2019-04-22 17:24:05
+[INFO] [2019-04-22 17:24:05 ] [Thread-5] com.wiscom.thread.Client_Thread_old - insert remove alert event successfully
